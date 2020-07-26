@@ -1,0 +1,14 @@
+C:\demo\SonkuReact\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\demo\SonkuReact\Application\bin\Debug\netstandard2.1\Application.dll
+C:\demo\SonkuReact\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\demo\SonkuReact\Application\bin\Debug\netstandard2.1\Domain.dll
+C:\demo\SonkuReact\Application\bin\Debug\netstandard2.1\Persistence.dll
+C:\demo\SonkuReact\Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\demo\SonkuReact\Application\bin\Debug\netstandard2.1\Persistence.pdb
+C:\demo\SonkuReact\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\demo\SonkuReact\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+C:\demo\SonkuReact\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\demo\SonkuReact\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\demo\SonkuReact\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\demo\SonkuReact\Application\obj\Debug\netstandard2.1\Application.dll
+C:\demo\SonkuReact\Application\obj\Debug\netstandard2.1\Application.pdb

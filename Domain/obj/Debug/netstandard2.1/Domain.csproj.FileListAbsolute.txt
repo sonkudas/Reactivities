@@ -1,0 +1,9 @@
+C:\demo\SonkuReact\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\demo\SonkuReact\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\demo\SonkuReact\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\demo\SonkuReact\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\demo\SonkuReact\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\demo\SonkuReact\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\demo\SonkuReact\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\demo\SonkuReact\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\demo\SonkuReact\Domain\obj\Debug\netstandard2.1\Domain.pdb
