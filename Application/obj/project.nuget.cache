@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IElNfjE94KYCS1IPjVkDPzUD4//YeZOL8TVn2vJdaCjoGZkpp2/Vp1XE5UOvWhxWjxjQB1OBhA12XA08w0vjSA==",
+  "dgSpecHash": "uI2N/Q3dKQHKXTO56GAB1jhEVgy/O92DI802mGmUI4jqEmWoJC7YYN8YQVx9xbJkowFJtEzPEpJjQqZnsI5ibA==",
   "success": true,
   "projectFilePath": "C:\\demo\\SonkuReact\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Sonku\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\Sonku\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\Sonku\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Sonku\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Sonku\\.nuget\\packages\\microsoft.data.sqlite.core\\3.1.2\\microsoft.data.sqlite.core.3.1.2.nupkg.sha512",

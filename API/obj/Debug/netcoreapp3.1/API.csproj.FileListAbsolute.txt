@@ -63,3 +63,5 @@ C:\demo\SonkuReact\api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlit
 C:\demo\SonkuReact\api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\demo\SonkuReact\api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\demo\SonkuReact\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\demo\SonkuReact\api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\demo\SonkuReact\api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
