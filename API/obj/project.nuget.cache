@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K5jslF+L4l+kmb6oFMrvV4TVNPUZrCeBNwU6vTuekAcrbpRIQ5G1VGkcSHFvPVyRIEOV0XF8bw0uJvR61zrpJQ==",
+  "dgSpecHash": "Y/Zdp74xL6mH/7yDPivzpdT9/w6nxuuhc5MZBeLyo2ND31WI6gFmaNWg3BrjDYhn1n8o+1PiPHaGwwiHTMKj5Q==",
   "success": true,
-  "projectFilePath": "C:\\demo\\SonkuReact\\api\\API.csproj",
+  "projectFilePath": "C:\\demo\\SonkuReact\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sonku\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
     "C:\\Users\\Sonku\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

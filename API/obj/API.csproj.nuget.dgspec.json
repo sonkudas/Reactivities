@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\demo\\SonkuReact\\api\\API.csproj": {}
+    "C:\\demo\\SonkuReact\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\demo\\SonkuReact\\api\\API.csproj": {
+    "C:\\demo\\SonkuReact\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\demo\\SonkuReact\\api\\API.csproj",
+        "projectUniqueName": "C:\\demo\\SonkuReact\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\demo\\SonkuReact\\api\\API.csproj",
+        "projectPath": "C:\\demo\\SonkuReact\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Sonku\\.nuget\\packages\\",
-        "outputPath": "C:\\demo\\SonkuReact\\api\\obj\\",
+        "outputPath": "C:\\demo\\SonkuReact\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
